@@ -9,6 +9,8 @@
 
 
     <main>
+
+        <!--
         <div class="px-4 sm:px-6 lg:px-8">
 
             <h1 class="mt-5 md-5"><?=$greeting;?></h1>
@@ -55,5 +57,9 @@
                 </div>
             </div>
         </div>
+        -->
+
+        TODO
+
     </main>
 </x-layout>
